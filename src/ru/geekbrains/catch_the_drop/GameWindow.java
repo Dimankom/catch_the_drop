@@ -1,5 +1,5 @@
 package ru.geekbrains.catch_the_drop;
-
+/* Этот комментарий в качестве изменения при тренировке навыков с Новыми ветками в Гите*/
 import javax.imageio.ImageIO;
 import javax.swing.*;
 import java.awt.*;
